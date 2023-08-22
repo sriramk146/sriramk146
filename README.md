@@ -35,7 +35,7 @@ Welcome to my GitHub profile. I'm a passionate Data Scientist with 2+ years of e
 - LabVIEW, MATLAB
 
 #More about me
-- 💬 Ask me about ... solving business problem with AI insights
+- 💬 Ask me about ... solving business problems with AI insights
 - 📫 How to reach me: ... https://github.com/sriramk146
 - ⚡ Fun fact: ... My dream is to be a Freelancing programmer
 - 🌐 Let's Connect ... https://www.linkedin.com/in/sriramk146
