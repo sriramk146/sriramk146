@@ -1,6 +1,6 @@
 ### 👋 Hello! 
 
-Welcome to my GitHub profile. I'm a passionate Data Scientist with 2+ years of experience in the exciting world of data analysis and machine learning. My journey in the data science field has been a thrilling ride of discovery and problem-solving. Here's a glimpse of what you'll find in my repositories:
+Welcome to my GitHub profile. I'm a passionate Data Scientist with 3+ years of experience in the exciting world of data analysis and machine learning. My journey in the data science field has been a thrilling ride of discovery and problem-solving. Here's a glimpse of what you'll find in my repositories:
 
 - 🤖 Machine Learning
 - 🧠 Deep Learning
