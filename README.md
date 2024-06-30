@@ -28,6 +28,7 @@ Welcome to my GitHub profile. I'm a passionate Data Scientist with 3+ years of e
 #Tools
 - Python, C++ (Windows, Linux)
 - LabelImg, LabelMe, Label Studio, Doccano
+- Flask, FastAPI, PaaS (Deployments)
 - R, SPSS, Tableau, PowerBI
 - Microsoft Azure, AWS
 - OracleDB, MySQL, RedisDB          
