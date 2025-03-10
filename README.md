@@ -1,16 +1,18 @@
 ### 👋 Hello! 
 
-Welcome to my GitHub profile. I'm a passionate Data Scientist with 3+ years of experience in the exciting world of data analysis and machine learning. My journey in the data science field has been a thrilling ride of discovery and problem-solving. Here's a glimpse of what you'll find in my repositories:
+Welcome to my GitHub profile. I'm a passionate Data Scientist with 3.5+ years of experience in the exciting world of data analysis and machine learning. My journey in the data science field has been a thrilling ride of discovery and problem-solving. Here's a glimpse of what you'll find in my repositories:
 
 - 🤖 Machine Learning
 - 🧠 Deep Learning
 - 📊 Data Analysis and Visualization
 - 🔗 Data Pipelines and ETL
-- 📦 Open Source Contributions
+- 📦 Gen AI and AI Agents
 
 #Notable Skills
 - Machine Learning (Classical)
 - Deep Learning (ANN, CNN, NLU)
+- LLMOPs
+- AI Agents 
 - Data Analytics
 - Vision Analytics
 - Data Story telling
@@ -29,6 +31,7 @@ Welcome to my GitHub profile. I'm a passionate Data Scientist with 3+ years of e
 - Python, C++ (Windows, Linux)
 - LabelImg, LabelMe, Label Studio, Doccano
 - Flask, FastAPI, PaaS (Deployments)
+- Streamlit, Anova
 - R, SPSS, Tableau, PowerBI
 - Microsoft Azure, AWS
 - OracleDB, MySQL, RedisDB          
